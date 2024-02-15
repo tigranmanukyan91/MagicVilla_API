@@ -11,5 +11,7 @@ namespace MagicVilla_VillaAPI.Data
             
         }
         public DbSet<Villa> Villas{ get; set; }
+
+        
     }
 }
